@@ -1,0 +1,41 @@
+.bg-container {
+  background-color: #ffd569;
+  padding: 50px;
+}
+.fruits-container {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  color: #000000;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.fruit {
+  height: 120px;
+  width: 120px;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  font-size: 5px;
+  height: 30px;
+  width: 60px;
+  border-radius: 5px;
+  border-width: 0px;
+  margin: 10px;
+}
+.fruit-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.box-container {
+  display: flex;
+}
